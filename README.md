@@ -1,4 +1,4 @@
-# Layoffs-Data-Analysis-SQL-Python
+# Layoffs-Data Analysis |SQL & Python
 
 ## Project Overview
 End-to-end analysis of a global company layoffs dataset using SQL and Python, designed from a Senior Data Analyst / BI perspective.
@@ -10,6 +10,7 @@ End-to-end analysis of a global company layoffs dataset using SQL and Python, de
 - Countries: 66
 - Industries: 30
 - Date range: 2020-03-11 to 2026-09-17
+  
 ## Business Questions
 1. How have layoffs changed over time?
 2. Which companies drive the largest workforce impact?
