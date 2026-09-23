@@ -225,4 +225,3 @@ with pd.ExcelWriter("layoffs_analysis_summary.xlsx", engine="openpyxl") as write
     stage.to_excel(writer, sheet_name="Stage")
     top_events.to_excel(writer, sheet_name="Top_Events", index=False)
 
-print("\nEDA completed. Figures saved to ./figures/")
