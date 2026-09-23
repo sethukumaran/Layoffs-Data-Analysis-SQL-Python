@@ -1,9 +1,5 @@
 """
 Layoffs Dataset — End-to-End Exploratory Data Analysis
-Senior Data Analyst Portfolio Project
-
-Input: layoffs.csv
-Run: python layoffs_eda.py
 """
 
 from pathlib import Path
