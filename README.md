@@ -142,6 +142,10 @@ The SQL script uses MS SQL and covers:
 ## Conclusion
 The dataset is most useful when layoffs are analyzed across **scale, frequency, concentration, industry, geography, severity and persistence**. The project demonstrates a senior-analyst approach: quantify the business impact, separate frequency from severity, identify concentration, test relationships carefully, and explicitly document data limitations.
 
+## Dashboard 
+
+With the help of Claude AI, integrated the data sources into Claude, a web-based dashboard created for the above project in a simple manner. Screenshots are attached with the repository.
+
 
 
 
